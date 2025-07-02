@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "1e116e7e-5afc-48f8-828d-d46dade9af82",
+		"name": "EZ Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46374951",
+		"_collection_link": "https://akshaykumarsingh-1420235.postman.co/workspace/f2f8e1af-86ef-46be-815a-e1a3f81ee5a9/collection/46374951-1e116e7e-5afc-48f8-828d-d46dade9af82?action=share&source=collection_link&creator=46374951"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
